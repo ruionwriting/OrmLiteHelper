@@ -1,7 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmLiteHelper", "OrmLiteHelper\OrmLiteHelper.csproj", "{127775D9-8FED-419A-9BD7-9CCF6A829583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmLiteHelper.MySql.Tests", "OrmLiteHelper.MySql.Tests\OrmLiteHelper.MySql.Tests.csproj", "{132B337B-5FE9-42E7-B940-4D0076A1B551}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{127775D9-8FED-419A-9BD7-9CCF6A829583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127775D9-8FED-419A-9BD7-9CCF6A829583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127775D9-8FED-419A-9BD7-9CCF6A829583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127775D9-8FED-419A-9BD7-9CCF6A829583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{132B337B-5FE9-42E7-B940-4D0076A1B551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132B337B-5FE9-42E7-B940-4D0076A1B551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132B337B-5FE9-42E7-B940-4D0076A1B551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132B337B-5FE9-42E7-B940-4D0076A1B551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

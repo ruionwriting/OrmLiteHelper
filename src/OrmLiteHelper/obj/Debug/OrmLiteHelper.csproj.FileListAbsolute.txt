@@ -1,0 +1,16 @@
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\bin\Debug\OrmLiteHelper.dll
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\bin\Debug\OrmLiteHelper.pdb
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\obj\Debug\OrmLiteHelper.csprojResolveAssemblyReference.cache
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\obj\Debug\OrmLiteHelper.dll
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\obj\Debug\OrmLiteHelper.pdb
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\bin\Debug\MySql.Data.dll
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\bin\Debug\ServiceStack.Common.dll
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\bin\Debug\ServiceStack.Interfaces.dll
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\bin\Debug\ServiceStack.OrmLite.dll
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\bin\Debug\ServiceStack.OrmLite.MySql.dll
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\bin\Debug\ServiceStack.Text.dll
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\bin\Debug\ServiceStack.Common.xml
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\bin\Debug\ServiceStack.Interfaces.xml
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\bin\Debug\ServiceStack.OrmLite.pdb
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\bin\Debug\ServiceStack.OrmLite.MySql.pdb
+F:\dev\OrmLiteHelper\src\OrmLiteHelper\bin\Debug\ServiceStack.Text.xml

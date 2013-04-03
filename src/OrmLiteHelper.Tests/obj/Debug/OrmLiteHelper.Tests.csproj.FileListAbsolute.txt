@@ -1,0 +1,9 @@
+F:\dev\OrmLiteHelper\src\OrmLiteHelper.Tests\bin\Debug\OrmLiteHelper.Tests.dll
+F:\dev\OrmLiteHelper\src\OrmLiteHelper.Tests\bin\Debug\OrmLiteHelper.Tests.pdb
+F:\dev\OrmLiteHelper\src\OrmLiteHelper.Tests\bin\Debug\OrmLiteHelper.dll
+F:\dev\OrmLiteHelper\src\OrmLiteHelper.Tests\bin\Debug\xunit.dll
+F:\dev\OrmLiteHelper\src\OrmLiteHelper.Tests\bin\Debug\OrmLiteHelper.pdb
+F:\dev\OrmLiteHelper\src\OrmLiteHelper.Tests\bin\Debug\xunit.xml
+F:\dev\OrmLiteHelper\src\OrmLiteHelper.Tests\obj\Debug\OrmLiteHelper.Tests.dll
+F:\dev\OrmLiteHelper\src\OrmLiteHelper.Tests\obj\Debug\OrmLiteHelper.Tests.pdb
+F:\dev\OrmLiteHelper\src\OrmLiteHelper.Tests\obj\Debug\OrmLiteHelper.Tests.csprojResolveAssemblyReference.cache
